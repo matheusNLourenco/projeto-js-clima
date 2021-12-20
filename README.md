@@ -1,5 +1,5 @@
 <h1 align=" center"> 
-    Climate JS 🥁
+    Clima JS 🥁
 </h1>
 
 <h1>
@@ -7,13 +7,13 @@
 </h1>
 
 <h2 align="center">
-    <a href="https://matheusnlourenco.github.io/project-js-climate/">See the Project</a>
+    <a href="https://matheusnlourenco.github.io/project-js-climate/">Ver projeto</a>
 </h2>
-<h2>🚨 about</h2>
+<h2>🚨 Sobre </h2>
 
-Project of a weather forecaster, where an API request is made to get the data.
+Projeto Clima. Feito com js vanilla, consumindo Weather API para obter os dados meteorológicos atuais.
 
-<h2>🔨 Tools</h2>
+<h2>🔨 Ferramentas </h2>
 
 - HTML
 - CSS
